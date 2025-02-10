@@ -6,10 +6,15 @@ websites.
 
 Here we share the translations we got from chat-gpt, for these public-domain books.
 
-#### BookShelves
+### BookShelves
 
-### The Adventures of Pinocchio, by Carlo Collodi
+#### The Adventures of Pinocchio, by Carlo Collodi
 
 [Read](
 https://fccm2.github.io/gpt-translations/C_Collodi/Pinocchio/Pinocchio-00.html)
+
+#### The Metamorphosis, by Franz Kafka
+
+[Read](
+https://fccm2.github.io/gpt-translations/Kafka/Metamorphosis/Metamorphosis-01.html)
 
