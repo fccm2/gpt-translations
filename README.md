@@ -10,11 +10,16 @@ Here we share the translations we got from chat-gpt, for these public-domain boo
 
 #### The Adventures of Pinocchio, by Carlo Collodi
 
-[Read](
+[Read this book](
 https://fccm2.github.io/gpt-translations/C_Collodi/Pinocchio/Pinocchio-00.html)
 
 #### The Metamorphosis, by Franz Kafka
 
-[Read](
+[Read this book](
 https://fccm2.github.io/gpt-translations/Kafka/Metamorphosis/Metamorphosis-01.html)
+
+#### The Wonderful Wizard of Oz, by L. Frank Baum
+
+[Read this book](
+https://fccm2.github.io/gpt-translations/L_Frank_Baum/The_Wonderful_Wizard_of_Oz/The_Wonderful_Wizard_of_Oz-01.html)
 
