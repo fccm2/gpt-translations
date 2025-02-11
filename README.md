@@ -21,5 +21,5 @@ https://fccm2.github.io/gpt-translations/Kafka/Metamorphosis/Metamorphosis-01.ht
 #### The Wonderful Wizard of Oz, by L. Frank Baum
 
 [Read this book](
-https://fccm2.github.io/gpt-translations/L_Frank_Baum/The_Wonderful_Wizard_of_Oz/The_Wonderful_Wizard_of_Oz-01.html)
+https://fccm2.github.io/gpt-translations/L_Frank_Baum/The_Wonderful_Wizard_of_Oz/The_Wonderful_Wizard_of_Oz-00.html)
 
